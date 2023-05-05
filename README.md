@@ -1,4 +1,4 @@
-#  ![oscar (1)](https://user-images.githubusercontent.com/111004514/236502883-13465dd2-a14a-44ba-b4c1-e5e7b606654c.png) Oscar vai para...?
+# ![oscar (1)](https://user-images.githubusercontent.com/111004514/236502883-13465dd2-a14a-44ba-b4c1-e5e7b606654c.png) Oscar vai para...?
 <div>
   
 ![estrelas](https://user-images.githubusercontent.com/111004514/236503252-d08cd53c-d12c-4eb3-a58c-621feabac86f.png)
@@ -7,9 +7,9 @@
 
   Que acessou este repositório
 </div>
- 
-##
 
+##
+ 
 1- Quantas vezes Natalie Portman foi indicada ao Oscar?
 
 3 Vezes
@@ -74,7 +74,8 @@ WHERE winner= "false";
 
 ##
 
-10- O filme Central do Brasil aparece no Oscar?
+10- O filme Central do Brasil aparece no Oscar
+
 <code></code>
 
 ##
@@ -86,26 +87,31 @@ WHERE winner= "false";
 ##
 
 12- Crie uma nova categoria de premiação. Qualquer prêmio que você queira dar. Agora vamos dar esses prêmios aos filmes que você cadastrou na questão acima.
+
 <code></code>
 
 ##
 
 13- Qual foi o primeiro ano a ter um prêmio do Oscar?
+
 <code></code>
 
 ##
 
 14 - Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor?
+
 <code></code>
 
 ##
 
 15- Agora procure 7 atrizes que não sejam americanas, europeias ou brasileiras.  Vamos cadastrá-los no nosso banco, mas eles ainda não ganharam o Oscar. Só foram nomeados.
+
 <code></code>
 
 ##
 
 16- Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: Quê prêmio essa pessoa merece? 
+
 <code></code>
 
 ##
