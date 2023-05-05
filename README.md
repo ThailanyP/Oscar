@@ -4,8 +4,7 @@
 ![estrelas](https://user-images.githubusercontent.com/111004514/236503252-d08cd53c-d12c-4eb3-a58c-621feabac86f.png)
   VOCÊ
   ![estrelas](https://user-images.githubusercontent.com/111004514/236503360-31999433-279e-4a7e-b760-3a1f7a9fb23c.png)
-
-  Que acessou este repositório
+Que acessou este repositório
 </div>
 
 ##
